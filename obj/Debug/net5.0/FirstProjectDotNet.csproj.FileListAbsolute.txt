@@ -1,0 +1,16 @@
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\FirstProjectDotNet.exe
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\FirstProjectDotNet.deps.json
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\FirstProjectDotNet.runtimeconfig.json
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\FirstProjectDotNet.runtimeconfig.dev.json
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\FirstProjectDotNet.dll
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\ref\FirstProjectDotNet.dll
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\bin\Debug\net5.0\FirstProjectDotNet.pdb
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.csprojAssemblyReference.cache
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.AssemblyInfo.cs
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.dll
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\ref\FirstProjectDotNet.dll
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.pdb
+C:\Users\pedro\Projetos\DotNet\FirstProjectDotNet\obj\Debug\net5.0\FirstProjectDotNet.genruntimeconfig.cache
